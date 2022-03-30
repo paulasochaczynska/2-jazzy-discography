@@ -1,0 +1,69 @@
+ul {
+    padding-inline-start: 0px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    font-size: 20px;
+}
+
+.background {
+    background-color: navy;
+    padding: 2.188rem;
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive; 
+}
+
+.yellow {color: yellow}
+.red {color: red}
+
+.hero {
+    padding: 2.5rem
+}
+
+.hero h1 {
+    font-family: 'Architects Daughter', cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 35px;
+  }
+
+.hero p {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+.box {
+    background-color: navy;
+    color: whitesmoke;
+    padding: 2.188rem;
+    margin: 4rem auto;
+    width: 50%;
+}
+
+.box h2, h3 {
+    text-transform: uppercase;
+}
+
+.description img {
+    margin: 0px;
+    float: right;
+    padding: 1rem;
+    width: 30%;
+}
+
+.clear {
+    clear: both;
+}
+
+.box ul li{
+    float: left;
+    list-style-type: none; 
+}
+
+.item img {
+    width: 8rem;
+    padding: 0.5rem;
+}
